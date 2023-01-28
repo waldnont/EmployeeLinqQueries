@@ -1,0 +1,38 @@
+C:\Projects\Fan\Winter 2015\INFO5101\Examples\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe.config
+C:\Projects\Fan\Winter 2015\INFO5101\Examples\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe
+C:\Projects\Fan\Winter 2015\INFO5101\Examples\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.pdb
+C:\Projects\Fan\Winter 2015\INFO5101\Examples\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.exe
+C:\Projects\Fan\Winter 2015\INFO5101\Examples\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.pdb
+C:\Test\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe.config
+C:\Test\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.exe
+C:\Test\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.pdb
+C:\Test\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe
+C:\Test\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.pdb
+C:\Test\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csprojResolveAssemblyReference.cache
+D:\FanshaweCourses\INFO-5101\Winter2020\Exercises\week-eleven-exercise\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe.config
+D:\FanshaweCourses\INFO-5101\Winter2020\Exercises\week-eleven-exercise\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe
+D:\FanshaweCourses\INFO-5101\Winter2020\Exercises\week-eleven-exercise\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.pdb
+D:\FanshaweCourses\INFO-5101\Winter2020\Exercises\week-eleven-exercise\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csprojAssemblyReference.cache
+D:\FanshaweCourses\INFO-5101\Winter2020\Exercises\week-eleven-exercise\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csproj.CoreCompileInputs.cache
+D:\FanshaweCourses\INFO-5101\Winter2020\Exercises\week-eleven-exercise\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.exe
+D:\FanshaweCourses\INFO-5101\Winter2020\Exercises\week-eleven-exercise\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.pdb
+D:\~~Year 3 - Semester 5\INFO-5101\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe.config
+D:\~~Year 3 - Semester 5\INFO-5101\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe
+D:\~~Year 3 - Semester 5\INFO-5101\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.pdb
+D:\~~Year 3 - Semester 5\INFO-5101\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csprojAssemblyReference.cache
+D:\~~Year 3 - Semester 5\INFO-5101\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.exe
+D:\~~Year 3 - Semester 5\INFO-5101\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.pdb
+C:\Users\WINDOWS\Downloads\Exercise_8\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe.config
+C:\Users\WINDOWS\Downloads\Exercise_8\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe
+C:\Users\WINDOWS\Downloads\Exercise_8\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.pdb
+C:\Users\WINDOWS\Downloads\Exercise_8\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csprojAssemblyReference.cache
+C:\Users\WINDOWS\Downloads\Exercise_8\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Downloads\Exercise_8\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.exe
+C:\Users\WINDOWS\Downloads\Exercise_8\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.pdb
+C:\Users\WINDOWS\Downloads\Exercise8_WA\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe.config
+C:\Users\WINDOWS\Downloads\Exercise8_WA\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.exe
+C:\Users\WINDOWS\Downloads\Exercise8_WA\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\bin\Debug\EmployeeLinqQueries.pdb
+C:\Users\WINDOWS\Downloads\Exercise8_WA\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csprojAssemblyReference.cache
+C:\Users\WINDOWS\Downloads\Exercise8_WA\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\Downloads\Exercise8_WA\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.exe
+C:\Users\WINDOWS\Downloads\Exercise8_WA\Exercise 8\EmployeeLinqQueries\EmployeeLinqQueries\obj\Debug\EmployeeLinqQueries.pdb
